@@ -1,0 +1,21 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cli-table": "^0.3.1",
+    "express": "^4.15.3",
+    "inquirer": "^3.0.6"
+  }
+}
